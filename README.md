@@ -1,2 +1,3 @@
 # firstrepo
-trying out github
+trying out github 
+Author- Dexter Morgan
